@@ -1,4 +1,4 @@
-package com.samikhao.kotlincourse.lesson4
+package truthdevotion.lesson4
 
 class Hw4 {
     val byteNum1: Byte = 42
