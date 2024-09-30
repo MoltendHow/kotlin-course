@@ -1,4 +1,4 @@
-package com.samikhao.kotlincourse.lesson5
+package truthdevotion.lesson5
 
 
 fun main() {

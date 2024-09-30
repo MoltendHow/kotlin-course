@@ -1,4 +1,4 @@
-package com.samikhao.kotlincourse.lesson8
+package truthdevotion.lesson8
 
 fun main() {
     println("\n0 task:")

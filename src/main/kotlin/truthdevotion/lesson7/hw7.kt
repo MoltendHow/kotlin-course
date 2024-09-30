@@ -1,4 +1,4 @@
-package com.samikhao.kotlincourse.lesson7
+package truthdevotion.lesson7
 
 fun main() {
     println("прямой диапазон")
